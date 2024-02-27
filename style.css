@@ -5,10 +5,13 @@ body {
     flex-direction: column;
     gap: 3em; /* vahe elementide vahel */
     align-items: center;
+    background-color: darkolivegreen;
+font-size: 22px;
+    font-family: Calibri;
 }
 /* #-ga viitame elemendile, millel on selline id */
 #photo {
-    max-width: 25em;
+    max-width: em;
     max-height: 30em;
 }
 /* .-ga viitame elemenditele, millel on selline class */
